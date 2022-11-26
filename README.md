@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🌱 I’m a undergraduate student of Informatics Engineering ITS. </br>
 👨‍💻 I enjoy learning new things, especially in technology. </br>
-🤖 I'm joining the robotics team its, [IRIS](https://iris-its.vercel.app/). </br>
+🤖 I'm joining the robotics team its, [IRIS](https://iris.its.ac.id/). </br>
 
 <p align="left">
 <a href="https://github.com/dimss113">
